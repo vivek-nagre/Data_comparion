@@ -1,0 +1,38 @@
+DataComPy Comparison
+--------------------
+
+DataFrame Summary
+-----------------
+
+  DataFrame  Columns  Rows
+0  SRC_DATA        3     9
+1  TGT_DATA        3     9
+
+Column Summary
+--------------
+
+Number of columns in common: 3
+Number of columns in SRC_DATA but not in TGT_DATA: 0
+Number of columns in TGT_DATA but not in SRC_DATA: 0
+
+Row Summary
+-----------
+
+Matched on: site
+Any duplicates on match values: No
+Absolute Tolerance: 0
+Relative Tolerance: 0
+Number of rows in common: 9
+Number of rows in SRC_DATA but not in TGT_DATA: 0
+Number of rows in TGT_DATA but not in SRC_DATA: 0
+
+Number of rows with some compared columns unequal: 0
+Number of rows with all compared columns equal: 9
+
+Column Comparison
+-----------------
+
+Number of columns compared with some values unequal: 0
+Number of columns compared with all values equal: 3
+Total number of values which compare unequal: 0
+
